@@ -1,0 +1,5 @@
+Laptop,Elektronik,5000tl,150 adet
+Telefon,Elektronik,3000tl,200 adet
+T-shirt,Giyim,150tl,50 adet
+Köşe Koltuk,Mobilya,3500tl,30 adet
+Kulaklık,Elektronik,2300,77
